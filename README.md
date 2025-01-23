@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-*Welcome to the official GitHub of ICC IF UH (Informatics Cybersecurity Community of Universitas Hasanuddin)!
+
+Welcome to the official GitHub of ICC IF UH (Informatics Cybersecurity Community of Universitas Hasanuddin)!
 
 🌟 Focus Areas: CTF and Cyber Security
 
@@ -13,4 +13,4 @@
 
 Follow us for the latest updates and resources from ICC IF UH!
 
--->
+
