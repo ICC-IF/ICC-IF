@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 <!--
-**ICC-IF/ICC-IF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Welcome to the official GitHub of ICC IF UH (Informatics Cybersecurity Community of Universitas Hasanuddin)!
 
-Here are some ideas to get you started:
+🌟 Focus Areas: CTF and Cyber Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠️ What We Do: Write-ups, Challenge Documentation, and Cybersecurity Learning Resources
+
+🌱 Community Learning
+
+📫 Contact Us: iccifuh@gmail.com
+
+Follow us for the latest updates and resources from ICC IF UH!
+
 -->
